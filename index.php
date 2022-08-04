@@ -8,24 +8,35 @@
 	<meta name="description" content="desc">
 	<link rel="icon" href="img/favicon.ico" type="image/ico">
 
-  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css.htm">
-  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css.htm">
+  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
   <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
   <link rel="stylesheet" href="vendors/linericon/style.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css.htm">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css.htm">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
   <link rel="stylesheet" href="vendors/flat-icon/font/flaticon.css">
   <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
   <link rel="stylesheet" href="css/purecookie.css">
   <link rel="stylesheet" href="css/style.css">
-  <?php 
-      require_once "./tag-manager.php"
-  ?>
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TK74V9J');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="bg-shape">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK74V9J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <!--================ Header Menu Area start =================-->
   <header class="header_area">
     <div class="main_menu">
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container box_1620">
-          <a class="navbar-brand logo_h" href="default.htm"><img src="img/logo.png^v=1" alt=""></a>
+          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo%EF%B9%96v=1.png" alt=""></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -35,16 +46,16 @@
           <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
             <ul class="nav navbar-nav menu_nav justify-content-end">
              <li class="nav-item">
-					<a class="nav-link" href="about/default.htm">About Us</a>
+					<a class="nav-link" href="about.html">About Us</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="cookie-policy/default.htm">Cookie Policy</a>
+					<a class="nav-link" href="cookie-policy.html">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="privacy-policy/default.htm">Privacy Policy</a>
+					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="terms-and-conditions/default.htm">Terms & Conditions</a>
+					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
 				  </li>
                 	
               
@@ -52,7 +63,7 @@
 
             <div class="nav-right text-center text-lg-right py-4 py-lg-0">
              
-                <a href="register/default.htm"><button class="button button-header bg">Sign up</button></a>
+                <a href="register.html"><button class="button button-header bg">Sign up</button></a>
 				            </div>
           </div> 
         </div>
@@ -70,7 +81,7 @@
           <p>Social casino games are free-to-play online games, on your mobile device, tablet or on Facebook that have casino games like slots, video poker, keno, bingo and blackjack. You can play online on your computer or install the game on your mobile device and just start playing casino games! </p>
           
 		  <p>
-				<form method="POST" action="get.php.htm" onsubmit="if(document.getElementById('agrees').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
+				<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agrees').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
 						
 						<p><input type="checkbox" name="checkbox" value="check" id="agrees" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
 						
@@ -121,7 +132,7 @@
 		  Games are totally free to play and no real money required at all. The only aim and purpose of our games is entertainment.</p>
           
 		  <p>
-			<form method="POST" action="get.php.htm" onsubmit="if(document.getElementById('agreess').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
+			<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agreess').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
 						<span class="promo-text">
 						<p><input type="checkbox" name="checkbox" value="check" id="agreess" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
 						</span></p>
@@ -135,6 +146,7 @@
       </div>
     </div>
   </section>
+   
 		  <footer class="footer-area section-gap">
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
@@ -143,13 +155,13 @@
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
-&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="default.htm">TargetTopSlots.com</a> - All Rights Are Reserved.</b>
+&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="index.html">TargetTopSlots.com</a> - All Rights Are Reserved.</b>
 </p>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
-				<a href="privacy-policy/default.htm">Privacy Policy</a> |
-				<a href="cookie-policy/default.htm">Cookie Policy</a> | 
-				<a href="terms-and-conditions/default.htm">Terms & Conditions</a>
+				<a href="privacy-policy.html">Privacy Policy</a> |
+				<a href="cookie-policy.html">Cookie Policy</a> | 
+				<a href="terms-and-conditions.html">Terms & Conditions</a>
 				</p>  
 				</div>
 			</div>
