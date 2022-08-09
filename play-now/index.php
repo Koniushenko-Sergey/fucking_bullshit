@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>FassBinderGames - Social Casino Games</title>
 	<meta name="description" content="desc">
-	<link rel="icon" href="img/favicon.ico" type="image/ico">
+	<link rel="icon" href="../img/favicon.ico" type="image/ico">
 
-  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
-  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
-  <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
-  <link rel="stylesheet" href="vendors/linericon/style.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-  <link rel="stylesheet" href="vendors/flat-icon/font/flaticon.css">
-  <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
-  <link rel="stylesheet" href="css/purecookie.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="../vendors/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="../vendors/linericon/style.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="../vendors/flat-icon/font/flaticon.css">
+  <link rel="stylesheet" href="../vendors/nice-select/nice-select.css">
+  <link rel="stylesheet" href="../css/purecookie.css">
+  <link rel="stylesheet" href="../css/style.css">
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -49,13 +49,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a class="nav-link" href="about.html">About Us</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="cookie-policy/">Cookie Policy</a>
+					<a class="nav-link" href="cookie-policy.html">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="privacy-policy/">Privacy Policy</a>
+					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="terms-and-conditions/">Terms & Conditions</a>
+					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
 				  </li>
 
 
@@ -70,25 +70,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </nav>
     </div>
   </header>
-  <main class="side-main">
-
- <section class="hero-banner magic-ball">
+	 <section class="hero-banner magic-ball">
     <div class="container">
 
       <div class="row align-items-center text-center text-md-left">
         <div class="col-md-6 col-lg-5 mb-5 mb-md-0">
-          <h1>Social Casino Games</h1>
+         <h1>Social Casino Games</h1>
           <p>Social casino games are free-to-play online games, on your mobile device, tablet or on Facebook that have casino games like slots, video poker, keno, bingo and blackjack. You can play online on your computer or install the game on your mobile device and just start playing casino games! </p>
 
-		  <p>
-				<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agrees').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
-
-						<p><input type="checkbox" name="checkbox" value="check" id="agrees" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
-
-
-						<input type="submit" class="button button-hero mt-4" value="Play" name="Submit">
-					</form>
-					</p>
 
         </div>
         <div class="col-md-6 col-lg-7 col-xl-6 offset-xl-1">
@@ -99,9 +88,116 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </section>
 
 
- <section class="bg-gray section-padding magic-ball magic-ball-testimonial pb-xl-5">
+
+	<section class="section-padding--small bg-magnolia" id="games">
+		<div class="container text-center">
+			<div class="row">
+				<div class="w3l-index6" id="news">
+  <section id="grids5-block" class="py-5">
+    <div class="container py-lg-3">
+      <div class="heading text-center">
+        <h1>All New Games</h3>
+      </div>
+      <div class="row">
+
+
+        <div class="col-lg-4 col-md-6 mt-5">
+          <div class="grids5-info">
+            <a href="now-play/fu-dao-le.html"><img src="img/games/game6.jpg" alt="game-resp" class="oyun-100" /></a>
+            <div class="blog-info">
+              <h4><a href="now-play/fu-dao-le.html">Fu Dao Le</a></h4>
+
+              <a href="now-play/fu-dao-le.html" class="play">Play Game</a>
+            </div>
+          </div>
+        </div>
+
+		<div class="col-lg-4 col-md-6 mt-5">
+          <div class="grids5-info">
+            <a href="now-play/candy-bars.html"><img src="img/games/game5.jpg" alt="game-resp" class="oyun-100" /></a>
+            <div class="blog-info">
+              <h4><a href="now-play/candy-bars.html">Candy Bars</a></h4>
+
+              <a href="now-play/candy-bars.html" class="play">Play Game</a>
+            </div>
+          </div>
+        </div>
+
+		<div class="col-lg-4 col-md-6 mt-5">
+          <div class="grids5-info">
+            <a href="now-play/88-fortunes.html"><img src="img/games/game2.webp" alt="game-resp" class="oyun-100" /></a>
+            <div class="blog-info">
+              <h4><a href="now-play/88-fortunes.html">88 Fortunes</a></h4>
+
+              <a href="now-play/88-fortunes.html" class="play">Play Game</a>
+            </div>
+          </div>
+        </div>
+
+		<div class="col-lg-4 col-md-6 mt-5">
+          <div class="grids5-info">
+            <a href="now-play/wheel-of-fortune.html"><img src="img/games/game4.jpg" alt="game-resp" class="oyun-100" /></a>
+            <div class="blog-info">
+              <h4><a href="now-play/wheel-of-fortune.html">88 Fortunes</a></h4>
+
+              <a href="now-play/wheel-of-fortune.html" class="play">Play Game</a>
+            </div>
+          </div>
+        </div>
+
+		<div class="col-lg-4 col-md-6 mt-5">
+          <div class="grids5-info">
+            <a href="now-play/50-dragons.html"><img src="img/games/game3.jpg" alt="game-resp" class="oyun-100" /></a>
+            <div class="blog-info">
+              <h4><a href="now-play/50-dragons.html">50 Dragons</a></h4>
+
+              <a href="now-play/50-dragons.html" class="play">Play Game</a>
+            </div>
+          </div>
+        </div>
+
+		<div class="col-lg-4 col-md-6 mt-5">
+          <div class="grids5-info">
+            <a href="now-play/triple-diamond.html"><img src="img/games/game1.jpg" alt="game-resp" class="oyun-100" /></a>
+            <div class="blog-info">
+              <h4><a href="now-play/triple-diamond.html">Triple Diamond</a></h4>
+
+              <a href="now-play/triple-diamond.html" class="play">Play Game</a>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
+    </div>
+  </section>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</div>
+	</section>
+
+
+
+
+  <section class="bg-gray section-padding magic-ball magic-ball-testimonial pb-xl-5">
     <div class="container">
-      <div class="section-intro pb-90px">
+      <div class="section-intro text-center pb-90px">
         <img class="section-intro-img" src="img/home/section-icon.png" alt="">
         <h2>What makes it a social casino game?</h2>
         <p>
@@ -132,20 +228,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		  Games are totally free to play and no real money required at all. The only aim and purpose of our games is entertainment.</p>
 
 		  <p>
-			<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agreess').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
-						<span class="promo-text">
-						<p><input type="checkbox" name="checkbox" value="check" id="agreess" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
-						</span></p>
-
-						<input type="submit" class="button" value="Play" name="Submit">
-	</form>
-			</p>
-
+		 <a class="button button-hero mt-4" href="about.html">About Us</a>
 
         </div>
       </div>
     </div>
   </section>
+
+
 
 		  <footer class="footer-area section-gap">
 		<div class="container" style="margin-top:-12%;"><br><br>
@@ -159,9 +249,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </p>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
-				<a href="privacy-policy/">Privacy Policy</a> |
-				<a href="cookie-policy/">Cookie Policy</a> |
-				<a href="terms-and-conditions/">Terms & Conditions</a>
+				<a href="../privacy-policy/">Privacy Policy</a> |
+				<a href="../cookie-policy/">Cookie Policy</a> |
+				<a href="../terms-and-conditions/">Terms & Conditions</a>
 				</p>
 				</div>
 			</div>
@@ -169,12 +259,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</footer>
 
 
-  <script src="js/purecookie.js"></script>
-  <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
-  <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
-  <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-  <script src="js/jquery.ajaxchimp.min.js"></script>
-  <script src="js/mail-script.js"></script>
-  <script src="js/main.js"></script>
+  <script src="../js/purecookie.js"></script>
+  <script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
+  <script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+  <script src="../js/jquery.ajaxchimp.min.js"></script>
+  <script src="../js/mail-script.js"></script>
+  <script src="../js/main.js"></script>
 </body>
 </html>
