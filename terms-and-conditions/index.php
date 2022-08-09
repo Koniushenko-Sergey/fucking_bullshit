@@ -4,20 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Terms & Conditions | TargetTopSlots.com</title>
+  <title>Terms & Conditions | FassBinderGames.com</title>
 	<meta name="description" content="desc">
 	<link rel="icon" href="img/favicon.ico" type="image/ico">
 
-  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
-  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
-  <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
-  <link rel="stylesheet" href="vendors/linericon/style.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-  <link rel="stylesheet" href="vendors/flat-icon/font/flaticon.css">
-  <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
-  <link rel="stylesheet" href="css/purecookie.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="../vendors/fontawesome/all.min.css">
+  <link rel="stylesheet" href="../vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="../vendors/linericon/style.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="../vendors/flat-icon/font/flaticon.css">
+  <link rel="stylesheet" href="../vendors/nice-select/nice-select.css">
+  <link rel="stylesheet" href="../css/purecookie.css">
+  <link rel="stylesheet" href="../css/style.css">
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -46,26 +46,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
             <ul class="nav navbar-nav menu_nav justify-content-end">
              <li class="nav-item">
-					<a class="nav-link" href="about.html">About Us</a>
+					<a class="nav-link" href="../about/">About Us</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="cookie-policy/">Cookie Policy</a>
+					<a class="nav-link" href="../cookie-policy/">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
+					<a class="nav-link" href="../privacy-policy/">Privacy Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
+					<a class="nav-link" href="../terms-and-conditions/">Terms & Conditions</a>
 				  </li>
-                	
-              
             </ul>
-
             <div class="nav-right text-center text-lg-right py-4 py-lg-0">
-             
                 <a href="register.html"><button class="button button-header bg">Sign up</button></a>
 				            </div>
-          </div> 
+          </div>
         </div>
       </nav>
     </div>
@@ -82,46 +78,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
   </section>
-  
- 
-	
-	
         <section class="section-margin">
 	<div class="container section-intro pb-90px">
                 <div class="row">
-                <div class="col-md-12 col-sm-12 col-xs-12">        
+                <div class="col-md-12 col-sm-12 col-xs-12">
 
-<p>Welcome to TargetTopSlots.com!</p>
+<p>Welcome to FassBinderGames.com!</p>
 
-<p>These terms and conditions outline the rules and regulations for the use of TargetTopSlots.com's Website, located at https://targettopslots.com.</p>
+<p>These terms and conditions outline the rules and regulations for the use of FassBinderGames.com's Website, located at https://FassBinderGames.com.</p>
 
-<p>By accessing this website we assume you accept these terms and conditions. Do not continue to use TargetTopSlots.com if you do not agree to take all of the terms and conditions stated on this page.</p>
+<p>By accessing this website we assume you accept these terms and conditions. Do not continue to use FassBinderGames.com if you do not agree to take all of the terms and conditions stated on this page.</p>
 
 <p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p>
 
 <br><h3><strong>Cookies</strong></h3>
 
-<p>We employ the use of cookies. By accessing TargetTopSlots.com, you agreed to use cookies in agreement with the TargetTopSlots.com's Privacy Policy.</p>
+<p>We employ the use of cookies. By accessing FassBinderGames.com, you agreed to use cookies in agreement with the FassBinderGames.com's Privacy Policy.</p>
 
 <p>Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p>
 
 <br><h3><strong>License</strong></h3>
 
-<p>Unless otherwise stated, TargetTopSlots.com and/or its licensors own the intellectual property rights for all material on TargetTopSlots.com. All intellectual property rights are reserved. You may access this from TargetTopSlots.com for your own personal use subjected to restrictions set in these terms and conditions.</p>
+<p>Unless otherwise stated, FassBinderGames.com and/or its licensors own the intellectual property rights for all material on FassBinderGames.com. All intellectual property rights are reserved. You may access this from FassBinderGames.com for your own personal use subjected to restrictions set in these terms and conditions.</p>
 
 <p>You must not:</p>
 <ul>
-    <li>Republish material from TargetTopSlots.com</li>
-    <li>Sell, rent or sub-license material from TargetTopSlots.com</li>
-    <li>Reproduce, duplicate or copy material from TargetTopSlots.com</li>
-    <li>Redistribute content from TargetTopSlots.com</li>
+    <li>Republish material from FassBinderGames.com</li>
+    <li>Sell, rent or sub-license material from FassBinderGames.com</li>
+    <li>Reproduce, duplicate or copy material from FassBinderGames.com</li>
+    <li>Redistribute content from FassBinderGames.com</li>
 </ul>
 
 <p>This Agreement shall begin on the date hereof.</p>
 
-<p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. TargetTopSlots.com does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of TargetTopSlots.com,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, TargetTopSlots.com shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
+<p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. FassBinderGames.com does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of FassBinderGames.com,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, FassBinderGames.com shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
 
-<p>TargetTopSlots.com reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</p>
+<p>FassBinderGames.com reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</p>
 
 <p>You warrant and represent that:</p>
 
@@ -132,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li>The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</li>
 </ul>
 
-<p>You hereby grant TargetTopSlots.com a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</p>
+<p>You hereby grant FassBinderGames.com a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</p>
 
 <br><h3><strong>Hyperlinking to our Content</strong></h3>
 
@@ -160,11 +152,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li>educational institutions and trade associations.</li>
 </ul>
 
-<p>We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of TargetTopSlots.com; and (d) the link is in the context of general resource information.</p>
+<p>We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of FassBinderGames.com; and (d) the link is in the context of general resource information.</p>
 
 <p>These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.</p>
 
-<p>If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to TargetTopSlots.com. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.</p>
+<p>If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to FassBinderGames.com. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.</p>
 
 <p>Approved organizations may hyperlink to our Website as follows:</p>
 
@@ -174,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li>By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.</li>
 </ul>
 
-<p>No use of TargetTopSlots.com's logo or other artwork will be allowed for linking absent a trademark license agreement.</p>
+<p>No use of FassBinderGames.com's logo or other artwork will be allowed for linking absent a trademark license agreement.</p>
 
 <br><h3><strong>iFrames</strong></h3>
 
@@ -212,56 +204,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.</p>
 
 <p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>
-			
+
                 </div></div>
 	</div>
 </section>
-        
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
 	  <footer class="footer-area section-gap">
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
-            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>	
+            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>
 			<a href="https://www.begambleaware.org/"><img src="img/gambleaware.png" alt="GambleAware"></a>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
-&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="index.html">TargetTopSlots.com</a> - All Rights Are Reserved.</b>
+&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="index.html">FassBinderGames.com</a> - All Rights Are Reserved.</b>
 </p>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
-				<a href="privacy-policy.html">Privacy Policy</a> |
-				<a href="cookie-policy/">Cookie Policy</a> | 
-				<a href="terms-and-conditions.html">Terms & Conditions</a>
-				</p>  
+				<a href="../privacy-policy/">Privacy Policy</a> |
+				<a href="../cookie-policy/">Cookie Policy</a> |
+				<a href="../privacy-policy/">Terms & Conditions</a>
+				</p>
 				</div>
 			</div>
 		</div>
 	</footer>
 
 
-  <script src="js/purecookie.js"></script>
-  <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
-  <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
-  <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-  <script src="js/jquery.ajaxchimp.min.js"></script>
-  <script src="js/mail-script.js"></script>
-  <script src="js/main.js"></script>
+  <script src="../js/purecookie.js"></script>
+  <script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
+  <script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+  <script src="../js/jquery.ajaxchimp.min.js"></script>
+  <script src="../js/mail-script.js"></script>
+  <script src="../js/main.js"></script>
 </body>
 </html>

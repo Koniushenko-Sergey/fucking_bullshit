@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Sign in</title>
 	<meta name="description" content="Sign in">
-	<link rel="icon" href="img/favicon.ico" type="image/ico">
+	<link rel="icon" href="../img/favicon.ico" type="image/ico">
 
-  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
-  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
-  <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
-  <link rel="stylesheet" href="vendors/linericon/style.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-  <link rel="stylesheet" href="vendors/flat-icon/font/flaticon.css">
-  <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
-  <link rel="stylesheet" href="css/purecookie.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="../vendors/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="../vendors/linericon/style.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="../vendors/flat-icon/font/flaticon.css">
+  <link rel="stylesheet" href="../vendors/nice-select/nice-select.css">
+  <link rel="stylesheet" href="../css/purecookie.css">
+  <link rel="stylesheet" href="../css/style.css">
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -49,23 +49,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a class="nav-link" href="about.html">About Us</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="cookie-policy/">Cookie Policy</a>
+					<a class="nav-link" href="../cookie-policy/">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
+					<a class="nav-link" href="../privacy-policy/">Privacy Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
+					<a class="nav-link" href="../terms-and-conditions/">Terms & Conditions</a>
 				  </li>
-                	
-              
             </ul>
-
             <div class="nav-right text-center text-lg-right py-4 py-lg-0">
-             
                 <a href="register.html"><button class="button button-header bg">Sign up</button></a>
 				            </div>
-          </div> 
+          </div>
         </div>
       </nav>
     </div>
@@ -84,17 +80,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
   </section>
-	
+
 
 <section class="blog_categorie_area">
-<div class="container text-center">	
- 
+<div class="container text-center">
 										<form action="login.html" method="POST">
-						
 						<div class="form-group">
 							<input placeholder="User Name" name="uname" type="text" required=""class="form-control">
 						</div>
-						
 						<div class="form-group">
 							<input  placeholder="Password" name="password" type="password" required=""class="form-control">
 						</div>
@@ -109,31 +102,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		  <footer class="footer-area section-gap">
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
-            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>	
+            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>
 			<a href="https://www.begambleaware.org/"><img src="img/gambleaware.png" alt="GambleAware"></a>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
-&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="index.html">TargetTopSlots.com</a> - All Rights Are Reserved.</b>
+&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="index.html">FassBinderGames.com</a> - All Rights Are Reserved.</b>
 </p>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
-				<a href="privacy-policy.html">Privacy Policy</a> |
-				<a href="cookie-policy/">Cookie Policy</a> | 
-				<a href="terms-and-conditions.html">Terms & Conditions</a>
-				</p>  
+				<a href="../privacy-policy/">Privacy Policy</a> |
+				<a href="../cookie-policy/">Cookie Policy</a> |
+				<a href="../terms-and-conditions/">Terms & Conditions</a>
+				</p>
 				</div>
 			</div>
 		</div>
 	</footer>
-
-
-  <script src="js/purecookie.js"></script>
-  <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
-  <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
-  <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-  <script src="js/jquery.ajaxchimp.min.js"></script>
-  <script src="js/mail-script.js"></script>
-  <script src="js/main.js"></script>
+  <script src="../js/purecookie.js"></script>
+  <script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
+  <script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+  <script src="../js/jquery.ajaxchimp.min.js"></script>
+  <script src="../js/mail-script.js"></script>
+  <script src="../js/main.js"></script>
 </body>
 </html>

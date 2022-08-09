@@ -52,10 +52,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a class="nav-link" href="cookie-policy/">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
+					<a class="nav-link" href="privacy-policy/">Privacy Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
+					<a class="nav-link" href="terms-and-conditions/">Terms & Conditions</a>
 				  </li>
 
 
@@ -155,13 +155,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
-&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="index.html">TargetTopSlots.com</a> - All Rights Are Reserved.</b>
+&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="index.html">FassBinderGames.com</a> - All Rights Are Reserved.</b>
 </p>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
-				<a href="privacy-policy.html">Privacy Policy</a> |
+				<a href="privacy-policy/">Privacy Policy</a> |
 				<a href="cookie-policy/">Cookie Policy</a> |
-				<a href="terms-and-conditions.html">Terms & Conditions</a>
+				<a href="terms-and-conditions/">Terms & Conditions</a>
 				</p>
 				</div>
 			</div>
