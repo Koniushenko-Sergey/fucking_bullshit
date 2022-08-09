@@ -155,8 +155,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="grids5-info">
             <a href="now-play/triple-diamond.html"><img src="../img/games/game1.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="./down-egypt.html">Dawn Egypt</a></h4>
-              <a href="./down-egypt.html" class="play">Play Game</a>
+              <h4><a href="./down-egypt.php">Dawn Egypt</a></h4>
+              <a href="./down-egypt.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
