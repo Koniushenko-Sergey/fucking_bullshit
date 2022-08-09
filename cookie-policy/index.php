@@ -46,7 +46,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
             <ul class="nav navbar-nav menu_nav justify-content-end">
              <li class="nav-item">
-					<a class="nav-link" href="about.html">About Us</a>
+					<a class="nav-link" href="../about/">About Us</a>
 				  </li>
 				  <li class="nav-item">
 					<a class="nav-link" href="../cookie-policy/">Cookie Policy</a>
