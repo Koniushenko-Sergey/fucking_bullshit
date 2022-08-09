@@ -36,7 +36,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main_menu">
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container box_1620">
-          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo%EF%B9%96v=1.png" alt=""></a>
+          <a class="navbar-brand logo_h" href="../index.php"><img src="../img/logo%EF%B9%96v=1.png" alt=""></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -81,7 +81,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </div>
         <div class="col-md-6 col-lg-7 col-xl-6 offset-xl-1">
-          <img class="img-fluid" src="img/home/hero-img.png" alt="" style="border-radius:20%;">
+          <img class="img-fluid" src="../img/home/hero-img.png" alt="" style="border-radius:20%;">
         </div>
       </div>
     </div>
@@ -103,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="col-lg-4 col-md-6 mt-5">
           <div class="grids5-info">
-            <a href="now-play/fu-dao-le.html"><img src="img/games/game6.jpg" alt="game-resp" class="oyun-100" /></a>
+            <a href="now-play/fu-dao-le.html"><img src="../img/games/game6.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
               <h4><a href="now-play/fu-dao-le.html">Fu Dao Le</a></h4>
 
@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class="col-lg-4 col-md-6 mt-5">
           <div class="grids5-info">
-            <a href="now-play/candy-bars.html"><img src="img/games/game5.jpg" alt="game-resp" class="oyun-100" /></a>
+            <a href="now-play/candy-bars.html"><img src="../img/games/game5.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
               <h4><a href="now-play/candy-bars.html">Candy Bars</a></h4>
 
@@ -125,7 +125,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class="col-lg-4 col-md-6 mt-5">
           <div class="grids5-info">
-            <a href="now-play/88-fortunes.html"><img src="img/games/game2.webp" alt="game-resp" class="oyun-100" /></a>
+            <a href="now-play/88-fortunes.html"><img src="../img/games/game2.webp" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
               <h4><a href="now-play/88-fortunes.html">88 Fortunes</a></h4>
 
@@ -136,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class="col-lg-4 col-md-6 mt-5">
           <div class="grids5-info">
-            <a href="now-play/wheel-of-fortune.html"><img src="img/games/game4.jpg" alt="game-resp" class="oyun-100" /></a>
+            <a href="now-play/wheel-of-fortune.html"><img src="../img/games/game4.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
               <h4><a href="now-play/wheel-of-fortune.html">88 Fortunes</a></h4>
 
@@ -147,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class="col-lg-4 col-md-6 mt-5">
           <div class="grids5-info">
-            <a href="now-play/50-dragons.html"><img src="img/games/game3.jpg" alt="game-resp" class="oyun-100" /></a>
+            <a href="now-play/50-dragons.html"><img src="../img/games/game3.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
               <h4><a href="now-play/50-dragons.html">50 Dragons</a></h4>
 
@@ -158,7 +158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class="col-lg-4 col-md-6 mt-5">
           <div class="grids5-info">
-            <a href="now-play/triple-diamond.html"><img src="img/games/game1.jpg" alt="game-resp" class="oyun-100" /></a>
+            <a href="now-play/triple-diamond.html"><img src="../img/games/game1.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
               <h4><a href="now-play/triple-diamond.html">Triple Diamond</a></h4>
 
@@ -198,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <section class="bg-gray section-padding magic-ball magic-ball-testimonial pb-xl-5">
     <div class="container">
       <div class="section-intro text-center pb-90px">
-        <img class="section-intro-img" src="img/home/section-icon.png" alt="">
+        <img class="section-intro-img" src="../img/home/section-icon.png" alt="">
         <h2>What makes it a social casino game?</h2>
         <p>
 		•	Free Coins-you are always getting regular free coins, so you can play your favorite games whenever you want. <br/>
@@ -218,7 +218,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="row">
         <div class="col-lg-7 col-md-6 mb-4 mb-md-0">
           <div class="about-img">
-            <img class="img-fluid" src="img/home/about-img.png" alt="">
+            <img class="img-fluid" src="../img/home/about-img.png" alt="">
           </div>
         </div>
         <div class="col-lg-5 col-md-6 align-self-center about-content">
@@ -241,7 +241,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
             <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>
-			<a href="https://www.begambleaware.org/"><img src="img/gambleaware.png" alt="GambleAware"></a>
+			<a href="https://www.begambleaware.org/"><img src="../img/gambleaware.png" alt="GambleAware"></a>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
