@@ -46,16 +46,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
             <ul class="nav navbar-nav menu_nav justify-content-end">
              <li class="nav-item">
-					<a class="nav-link" href="about.html">About Us</a>
+					<a class="nav-link" href="../about/">About Us</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="cookie-policy.html">Cookie Policy</a>
+					<a class="nav-link" href="../cookie-policy/">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
+					<a class="nav-link" href="../privacy-policy/">Privacy Policy</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
+					<a class="nav-link" href="../terms-and-conditions/">Terms & Conditions</a>
 				  </li>
 
 
@@ -105,9 +105,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="grids5-info">
             <a href="now-play/fu-dao-le.html"><img src="../img/games/game6.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="now-play/fu-dao-le.html">Fu Dao Le</a></h4>
-
-              <a href="now-play/fu-dao-le.html" class="play">Play Game</a>
+              <h4><a href="./zelis.php">Zelis</a></h4>
+              <a href="./zelis.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
@@ -116,9 +115,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="grids5-info">
             <a href="now-play/candy-bars.html"><img src="../img/games/game5.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="now-play/candy-bars.html">Candy Bars</a></h4>
-
-              <a href="now-play/candy-bars.html" class="play">Play Game</a>
+              <h4><a href="./pirate-trasure.php">Pirate Treasure</a></h4>
+              <a href="./pirate-trasure.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
@@ -127,20 +125,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="grids5-info">
             <a href="now-play/88-fortunes.html"><img src="../img/games/game2.webp" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="now-play/88-fortunes.html">88 Fortunes</a></h4>
-
-              <a href="now-play/88-fortunes.html" class="play">Play Game</a>
+              <h4><a href="./88-fortunes.php">88 Fortunes</a></h4>
+              <a href="./88-fortunes.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
-
 		<div class="col-lg-4 col-md-6 mt-5">
           <div class="grids5-info">
             <a href="now-play/wheel-of-fortune.html"><img src="../img/games/game4.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="now-play/wheel-of-fortune.html">88 Fortunes</a></h4>
-
-              <a href="now-play/wheel-of-fortune.html" class="play">Play Game</a>
+              <h4><a href="./wild-west.php">Wild West</a></h4>
+              <a href="./wild-west.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
@@ -149,9 +144,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="grids5-info">
             <a href="now-play/50-dragons.html"><img src="../img/games/game3.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="now-play/50-dragons.html">50 Dragons</a></h4>
+              <h4><a href="./fire-toad.php">Fire Toad</a></h4>
 
-              <a href="now-play/50-dragons.html" class="play">Play Game</a>
+              <a href="./fire-toad.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
@@ -160,41 +155,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="grids5-info">
             <a href="now-play/triple-diamond.html"><img src="../img/games/game1.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="now-play/triple-diamond.html">Triple Diamond</a></h4>
-
-              <a href="now-play/triple-diamond.html" class="play">Play Game</a>
+              <h4><a href="./down-egypt.html">Dawn Egypt</a></h4>
+              <a href="./down-egypt.html" class="play">Play Game</a>
             </div>
           </div>
         </div>
-
-
-
       </div>
     </div>
   </section>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			</div>
-		</div>
-	</section>
-
-
-
-
+</div>
+</div>
+</section>
   <section class="bg-gray section-padding magic-ball magic-ball-testimonial pb-xl-5">
     <div class="container">
       <div class="section-intro text-center pb-90px">
@@ -204,15 +176,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		•	Free Coins-you are always getting regular free coins, so you can play your favorite games whenever you want. <br/>
 •	Casino Games-you can play almost all casino games in social. <br/>
 •	Social Features- You can invite friends to play along with you, gift your friends coins, ask for gifts from your friends if you are running low, and have your own social casino community.<br/>
-
-
 		</p>
       </div>
-
     </div>
   </section>
-
-
     <section class="bg-gray section-padding magic-ball magic-ball-about">
     <div class="container">
       <div class="row">
@@ -226,17 +193,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere. <br/>
 		  Playing, wining or success at social casino games never imply future success at real money gambling. <br/>
 		  Games are totally free to play and no real money required at all. The only aim and purpose of our games is entertainment.</p>
-
 		  <p>
-		 <a class="button button-hero mt-4" href="about.html">About Us</a>
-
+		 <a class="button button-hero mt-4" href="../about/">About Us</a>
         </div>
       </div>
     </div>
   </section>
-
-
-
 		  <footer class="footer-area section-gap">
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
@@ -257,8 +219,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 	</footer>
-
-
   <script src="../js/purecookie.js"></script>
   <script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
   <script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
