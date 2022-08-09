@@ -209,7 +209,7 @@ Below, you will find our free, instant play version of Pirate Treasures - there 
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
-&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="../index.html">FassBinderGames.com</a> - All Rights Are Reserved.</b>
+&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="../../">FassBinderGames.com</a> - All Rights Are Reserved.</b>
 </p>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
