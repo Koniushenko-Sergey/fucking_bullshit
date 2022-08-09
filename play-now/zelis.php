@@ -127,8 +127,8 @@ Below, you will find our free, instant play version of Zelis - there is no need 
           <div class="grids5-info">
             <a href="now-play/candy-bars.html"><img src="../img/games/game5.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="./pirate-trasure.php">Pirate Treasure</a></h4>
-              <a href="./pirate-trasure.php" class="play">Play Game</a>
+              <h4><a href="./pirate-treasure.php">Pirate Treasure</a></h4>
+              <a href="./pirate-treasure.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
