@@ -36,7 +36,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main_menu">
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container box_1620">
-          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo%EF%B9%96v=1.png" alt=""></a>
+          <a class="navbar-brand logo_h" href="/"><img src="../img/logo.png" alt=""></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -46,7 +46,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
             <ul class="nav navbar-nav menu_nav justify-content-end">
              <li class="nav-item">
-					<a class="nav-link" href="about.html">About Us</a>
+					<a class="nav-link" href="about/">About Us</a>
 				  </li>
 				  <li class="nav-item">
 					<a class="nav-link" href="cookie-policy/">Cookie Policy</a>
