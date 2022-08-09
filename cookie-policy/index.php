@@ -8,16 +8,16 @@
 	<meta name="description" content="desc">
 	<link rel="icon" href="img/favicon.ico" type="image/ico">
 
-  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
-  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
-  <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
-  <link rel="stylesheet" href="vendors/linericon/style.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
-  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-  <link rel="stylesheet" href="vendors/flat-icon/font/flaticon.css">
-  <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
-  <link rel="stylesheet" href="css/purecookie.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="../vendors/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="../vendors/linericon/style.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="../vendors/flat-icon/font/flaticon.css">
+  <link rel="stylesheet" href="../vendors/nice-select/nice-select.css">
+  <link rel="stylesheet" href="../css/purecookie.css">
+  <link rel="stylesheet" href="../css/style.css">
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -57,15 +57,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				  <li class="nav-item">
 					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
 				  </li>
-                	
-              
+
+
             </ul>
 
             <div class="nav-right text-center text-lg-right py-4 py-lg-0">
-             
+
                 <a href="register.html"><button class="button button-header bg">Sign up</button></a>
 				            </div>
-          </div> 
+          </div>
         </div>
       </nav>
     </div>
@@ -83,15 +83,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
   </section>
-  
- 
-	
-	
+
+
+
+
         <section class="section-margin">
 	<div class="container section-intro pb-90px">
                 <div class="row">
-             <div class="col-md-12 col-sm-12 col-xs-12">       
-                        
+             <div class="col-md-12 col-sm-12 col-xs-12">
+
 
 <p>This is the Cookie Policy for TargetTopSlots.com, accessible from https://targettopslots.com</p>
 
@@ -200,7 +200,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
 	</div>
 </section>
-        
 
 
 
@@ -215,13 +214,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-	
-	
-	
+
+
+
+
 	  <footer class="footer-area section-gap">
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
-            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>	
+            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>
 			<a href="https://www.begambleaware.org/"><img src="img/gambleaware.png" alt="GambleAware"></a>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
@@ -231,21 +231,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
 				<a href="privacy-policy.html">Privacy Policy</a> |
-				<a href="cookie-policy/">Cookie Policy</a> | 
+				<a href="../cookie-policy/">Cookie Policy</a> |
 				<a href="terms-and-conditions.html">Terms & Conditions</a>
-				</p>  
+				</p>
 				</div>
 			</div>
 		</div>
 	</footer>
 
 
-  <script src="js/purecookie.js"></script>
-  <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
-  <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
-  <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-  <script src="js/jquery.ajaxchimp.min.js"></script>
-  <script src="js/mail-script.js"></script>
-  <script src="js/main.js"></script>
+  <script src="../js/purecookie.js"></script>
+  <script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
+  <script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+  <script src="../js/jquery.ajaxchimp.min.js"></script>
+  <script src="../js/mail-script.js"></script>
+  <script src="../js/main.js"></script>
 </body>
 </html>
