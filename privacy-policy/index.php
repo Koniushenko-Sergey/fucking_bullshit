@@ -59,7 +59,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				  </li>
             </ul>
             <div class="nav-right text-center text-lg-right py-4 py-lg-0">
-                <a href="register.html"><button class="button button-header bg">Sign up</button></a>
+                <a href="../register/"><button class="button button-header bg">Sign up</button></a>
 				            </div>
           </div>
         </div>

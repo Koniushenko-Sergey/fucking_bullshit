@@ -63,7 +63,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <div class="nav-right text-center text-lg-right py-4 py-lg-0">
 
-                <a href="register.html"><button class="button button-header bg">Sign up</button></a>
+                <a href="register/"><button class="button button-header bg">Sign up</button></a>
 				            </div>
           </div>
         </div>
@@ -81,7 +81,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>Social casino games are free-to-play online games, on your mobile device, tablet or on Facebook that have casino games like slots, video poker, keno, bingo and blackjack. You can play online on your computer or install the game on your mobile device and just start playing casino games! </p>
 
 		  <p>
-				<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agrees').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
+				<form method="POST" action="play-now/" onsubmit="if(document.getElementById('agrees').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
 
 						<p><input type="checkbox" name="checkbox" value="check" id="agrees" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
 
