@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Play Zelis for free | FassBinderGames.com</title>
-	<meta name="description" content="Play Zelis for free, Play Zelis slots for free">
+  <title>Play Down Egypt for free | FassBinderGames.com</title>
+	<meta name="description" content="Play Down Egypt for free, Play Down Egypt slots for free">
 	<link rel="icon" href="../img/favicon.ico" type="image/ico">
 
   <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
@@ -74,11 +74,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<section class="hero-banner-sm magic-ball magic-ball-banner" id="parallax-1" data-anchor-target="#parallax-1" data-300-top="background-position: 0px -80px" data-top-bottom="background-position: 0 100px">
     <div class="container">
       <div class="hero-banner-sm-content">
-        <h1>Play Zelis</h1>
+        <h1>Play Down Egypt</h1>
         <nav aria-label="breadcrumb" class="banner-breadcrumb" style="color:black;">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.php" style="color:black;">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page" style="color:black;">Zelis</li>
+            <li class="breadcrumb-item active" aria-current="page" style="color:black;">Down Egypt</li>
           </ol>
         </nav>
       </div>
@@ -97,12 +97,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<br><br>
 
 	<br>
-<h2>About Zelis</h2>
-The Zelis slots is found in most casinos in the US and is also very popular in Macau as well as Australia. It is a classic Aristocrat game and is very similar to the 50 Lions slot machine, as you would expect, I guess, given the title.
+<h2>About Down Egypt</h2>
+The Down Egypt slots is found in most casinos in the US and is also very popular in Macau as well as Australia. It is a classic Aristocrat game and is very similar to the 50 Lions slot machine, as you would expect, I guess, given the title.
 
 As the game title suggests, this one has 50 pay-lines, unlike the similarly named '5 Dragons' which has 243 pay-lines. The big thing here though, is that the top paying lines gives out $10, even on minimum bet, which is huge.
 
-Below, you will find our free, instant play version of Zelis - there is no need to download software and no registration required, just enjoy playing.
+Below, you will find our free, instant play version of Down Egypt - there is no need to download software and no registration required, just enjoy playing.
 
 
 	<br><br>
@@ -117,8 +117,8 @@ Below, you will find our free, instant play version of Zelis - there is no need 
           <div class="grids5-info">
             <a href="now-play/fu-dao-le.html"><img src="../img/games/game6.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="./zelis.php">Zelis</a></h4>
-              <a href="./zelis.php" class="play">Play Game</a>
+              <h4><a href="./Down Egypt.php">Down Egypt</a></h4>
+              <a href="./Down Egypt.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
