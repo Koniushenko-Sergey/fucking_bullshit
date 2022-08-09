@@ -132,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		  Games are totally free to play and no real money required at all. The only aim and purpose of our games is entertainment.</p>
 
 		  <p>
-			<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agreess').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
+			<form method="POST" action="play-now/" onsubmit="if(document.getElementById('agreess').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
 						<span class="promo-text">
 						<p><input type="checkbox" name="checkbox" value="check" id="agreess" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
 						</span></p>
