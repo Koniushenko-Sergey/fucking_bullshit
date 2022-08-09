@@ -84,7 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <section class="blog_categorie_area">
 <div class="container text-center">
-										<form action="login.html" method="POST">
+										<form action="login/" method="POST">
 						<div class="form-group">
 							<input placeholder="User Name" name="uname" type="text" required=""class="form-control">
 						</div>

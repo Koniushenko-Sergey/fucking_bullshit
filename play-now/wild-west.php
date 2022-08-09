@@ -92,7 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="playable_ch"><br><br><br>
 	Please login for play this game for free.<br/><br/>
-	<a href="../login.html"><span>Sign in</span></a> <a href="../register/"><span>Register</span></a>
+	<a href="../login/"><span>Sign in</span></a> <a href="../register/"><span>Register</span></a>
 	</div>
 	<br><br>
 

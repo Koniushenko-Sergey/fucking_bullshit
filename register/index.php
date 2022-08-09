@@ -99,7 +99,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<input type="submit" value="Create Account"class="btn btn-primary py-3 px-5">
 						</center>
 						<br><br>
-						<p>Already have an Account ? <a href="login.html" class="ml-2"><strong>Sign in to your Account</strong></a></p>
+						<p>Already have an Account ? <a href="login/" class="ml-2"><strong>Sign in to your Account</strong></a></p>
 					</form>
 				</div>
 </section>
