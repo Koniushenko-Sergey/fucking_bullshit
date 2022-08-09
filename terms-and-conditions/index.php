@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a class="nav-link" href="about.html">About Us</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="cookie-policy.html">Cookie Policy</a>
+					<a class="nav-link" href="cookie-policy/">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
 					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
@@ -247,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
 				<a href="privacy-policy.html">Privacy Policy</a> |
-				<a href="cookie-policy.html">Cookie Policy</a> | 
+				<a href="cookie-policy/">Cookie Policy</a> | 
 				<a href="terms-and-conditions.html">Terms & Conditions</a>
 				</p>  
 				</div>

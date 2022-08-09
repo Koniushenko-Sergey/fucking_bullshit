@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<a class="nav-link" href="about.html">About Us</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="cookie-policy.html">Cookie Policy</a>
+					<a class="nav-link" href="cookie-policy/">Cookie Policy</a>
 				  </li>
 				  <li class="nav-item">
 					<a class="nav-link" href="privacy-policy.html">Privacy Policy</a>
@@ -57,15 +57,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				  <li class="nav-item">
 					<a class="nav-link" href="terms-and-conditions.html">Terms & Conditions</a>
 				  </li>
-                	
-              
+
+
             </ul>
 
             <div class="nav-right text-center text-lg-right py-4 py-lg-0">
-             
+
                 <a href="register.html"><button class="button button-header bg">Sign up</button></a>
 				            </div>
-          </div> 
+          </div>
         </div>
       </nav>
     </div>
@@ -79,17 +79,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="col-md-6 col-lg-5 mb-5 mb-md-0">
           <h1>Social Casino Games</h1>
           <p>Social casino games are free-to-play online games, on your mobile device, tablet or on Facebook that have casino games like slots, video poker, keno, bingo and blackjack. You can play online on your computer or install the game on your mobile device and just start playing casino games! </p>
-          
+
 		  <p>
 				<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agrees').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
-						
+
 						<p><input type="checkbox" name="checkbox" value="check" id="agrees" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
-						
-					
+
+
 						<input type="submit" class="button button-hero mt-4" value="Play" name="Submit">
 					</form>
 					</p>
-		  
+
         </div>
         <div class="col-md-6 col-lg-7 col-xl-6 offset-xl-1">
           <img class="img-fluid" src="img/home/hero-img.png" alt="" style="border-radius:20%;">
@@ -109,14 +109,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 •	Casino Games-you can play almost all casino games in social. <br/>
 •	Social Features- You can invite friends to play along with you, gift your friends coins, ask for gifts from your friends if you are running low, and have your own social casino community.<br/>
 
-		
+
 		</p>
       </div>
 
     </div>
   </section>
-  
-  
+
+
     <section class="bg-gray section-padding magic-ball magic-ball-about">
     <div class="container">
       <div class="row">
@@ -130,27 +130,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere. <br/>
 		  Playing, wining or success at social casino games never imply future success at real money gambling. <br/>
 		  Games are totally free to play and no real money required at all. The only aim and purpose of our games is entertainment.</p>
-          
+
 		  <p>
 			<form method="POST" action="play-now.html" onsubmit="if(document.getElementById('agreess').checked) { return true; } else { alert('Please indicate that you are 18 or over.'); return false; }">
 						<span class="promo-text">
 						<p><input type="checkbox" name="checkbox" value="check" id="agreess" /> <span style="font-size:25px;">&nbsp;I'm 18 or over</span></p>
 						</span></p>
-					
+
 						<input type="submit" class="button" value="Play" name="Submit">
 	</form>
 			</p>
-		  
-		  
+
+
         </div>
       </div>
     </div>
   </section>
-   
+
 		  <footer class="footer-area section-gap">
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
-            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>	
+            <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>
 			<a href="https://www.begambleaware.org/"><img src="img/gambleaware.png" alt="GambleAware"></a>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
@@ -160,9 +160,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
 				<a href="privacy-policy.html">Privacy Policy</a> |
-				<a href="cookie-policy.html">Cookie Policy</a> | 
+				<a href="cookie-policy/">Cookie Policy</a> |
 				<a href="terms-and-conditions.html">Terms & Conditions</a>
-				</p>  
+				</p>
 				</div>
 			</div>
 		</div>
