@@ -192,7 +192,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>However if you are still looking for more information then you can contact us through one of our preferred contact methods:</p>
 
 <ul>
-<li>Email: <a href="cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="addfc8caedd9ccdfcac8d9d9c2dddec1c2d9de83cec2c0">[email&#160;protected]</a></li>
+<li>Email: <a href="mailto:admin@FassBinderGames.com">Admin@FassBinderGames.com</a></li>
 
 </ul>
 
