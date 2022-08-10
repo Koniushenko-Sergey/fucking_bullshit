@@ -226,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
-&copy;<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> <b><a href="../index.php">FassBinderGames.com</a> - All Rights Are Reserved.</b>
+&copy;<script>document.write(new Date().getFullYear());</script> <b><a href="../index.php">FassBinderGames.com</a> - All Rights Are Reserved.</b>
 </p>
 				<div class="col-lg-4 col-md-12 text-center text-lg-right">
 				<p>
