@@ -20,7 +20,7 @@
 </head>
 <body class="bg-shape">
   <?php
-    include 'tag-manager.php';
+    include '../tag-manager.php';
   ?>
   <!--================ Header Menu Area start =================-->
   <header class="header_area">
