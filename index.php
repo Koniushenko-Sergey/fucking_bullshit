@@ -17,9 +17,11 @@
   <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
   <link rel="stylesheet" href="css/purecookie.css">
   <link rel="stylesheet" href="css/style.css">
-<?php
-  include 'tag-manager.php';
-?>
+</head>
+<body class="bg-shape">
+  <?php
+    include 'tag-manager.php';
+  ?>
   <!--================ Header Menu Area start =================-->
   <header class="header_area">
     <div class="main_menu">
