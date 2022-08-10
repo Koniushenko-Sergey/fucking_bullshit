@@ -122,7 +122,7 @@
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=1" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/clc.png" alt="">
                             <span></span>
                             <span></span>
@@ -133,7 +133,7 @@
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=1" target="_blank" class="bonus">
                             <strong>100% bis zu €500</strong>+200 Freispiele </a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -149,16 +149,16 @@
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=1" target="_blank" class="score">
                             9.9 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=1" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=1" target="_blank" class="lnk">
                             Besuchen Sie Casinoly </a>
                     </div>
                 </div>
@@ -173,7 +173,7 @@
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=2" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/ldc%EF%B9%96v=1.png" alt="">
                             <span></span>
                             <span></span>
@@ -184,7 +184,7 @@
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=2" target="_blank" class="bonus">
                             <strong>€4,000 Bonus</strong>+300 Freispiele </a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -200,16 +200,16 @@
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=2" target="_blank" class="score">
                             9.8 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=2" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=2" target="_blank" class="lnk">
                             Besuchen Sie Lucky Dreams </a>
                     </div>
                 </div>
@@ -225,7 +225,7 @@
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=3" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/spc.png" alt="">
                             <span></span>
                             <span></span>
@@ -236,7 +236,7 @@
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=3" target="_blank" class="bonus">
                             <strong>Bis zu €1,000</strong>in 3 Boni </a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -251,16 +251,16 @@
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=3" target="_blank" class="score">
                             9.7 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=3" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=3" target="_blank" class="lnk">
                             Besuchen Sie Slots Palace </a>
                     </div>
                 </div>
@@ -273,7 +273,7 @@
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=4" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/vdc.svg" alt="">
                             <span></span>
                             <span></span>
@@ -284,7 +284,7 @@
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=4" target="_blank" class="bonus">
                             <strong>€1,650</strong>+300 Freispiele </a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -298,13 +298,13 @@
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=4" target="_blank" class="score">
                             9.6 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=4" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
                         <a href="visi66t.php?id=0" target="_blank" class="lnk">
@@ -320,7 +320,7 @@
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=5" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/ulc.png" alt="">
                             <span></span>
                             <span></span>
@@ -331,7 +331,7 @@
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=5" target="_blank" class="bonus">
                             <strong>100% Bonus bis zu €50</strong></a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -343,16 +343,16 @@
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=5" target="_blank" class="score">
                             9.5 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=5" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=5" target="_blank" class="lnk">
                             Besuchen Sie UberLucky </a>
                     </div>
                 </div>
@@ -365,7 +365,7 @@
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=6" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/icecasino.png" alt="">
                             <span></span>
                             <span></span>
@@ -376,7 +376,7 @@
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=6" target="_blank" class="bonus">
                             <strong>€1,500</strong>+270 Freispiele </a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -392,16 +392,16 @@
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=6" target="_blank" class="score">
                             9.4 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=6" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=6" target="_blank" class="lnk">
                             Besuchen Sie Ice Casino </a>
                     </div>
                 </div>
@@ -508,7 +508,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=7" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/zet.png" alt="">
                             <span></span>
                             <span></span>
@@ -519,7 +519,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=7" target="_blank" class="bonus">
                             100% bis zu <strong>€500</strong>+200 Freispiele </a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -534,16 +534,16 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=7" target="_blank" class="score">
                             9.3 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=7" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=7" target="_blank" class="lnk">
                             Besuchen Sie Zet Casino </a>
                     </div>
                 </div>
@@ -556,7 +556,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=8" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/vvc.svg" alt="">
                             <span></span>
                             <span></span>
@@ -567,7 +567,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=8" target="_blank" class="bonus">
                             <strong>Bis zu €1,000</strong>+125 Freispiele </a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -584,16 +584,16 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=8" target="_blank" class="score">
                             9.2 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=8" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=8" target="_blank" class="lnk">
                             Besuchen Sie Vulkan Vegas </a>
                     </div>
                 </div>
@@ -604,7 +604,7 @@ Besuchen Sie Qbet </a>
                         </div>
                     </div>
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=9" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/dachbet.png" alt="">
                             <span></span>
                             <span></span>
@@ -615,7 +615,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=9" target="_blank" class="bonus">
                             <strong>€1,000 Bonus</strong></a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -630,16 +630,16 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=9" target="_blank" class="score">
                             9.1 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=9" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=9" target="_blank" class="lnk">
                             Besuchen Sie Dachbet Casino </a>
                     </div>
                 </div>
@@ -653,7 +653,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=10" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/oms.svg" alt="">
                             <span></span>
                             <span></span>
@@ -664,7 +664,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=10" target="_blank" class="bonus">
                             <strong>100% bis zu €500</strong>+200 Freispiele</a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -680,16 +680,16 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=10" target="_blank" class="score">
                             9.0 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=10" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=10" target="_blank" class="lnk">
                             Besuchen Sie OhMySpins </a>
                     </div>
                 </div>
@@ -703,7 +703,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=11" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/rbc.png" alt="">
                             <span></span>
                             <span></span>
@@ -714,7 +714,7 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=11" target="_blank" class="bonus">
                             <strong>100% bonus €500</strong>+200 Freispiele</a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -729,16 +729,16 @@ Besuchen Sie Qbet </a>
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=11" target="_blank" class="score">
                             8.9 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=11" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=11" target="_blank" class="lnk">
                             Besuchen Sie Rabona </a>
                     </div>
                 </div>
@@ -798,7 +798,7 @@ Besuchen Sie Cashalot </a>
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=12" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/mbc.png" alt="">
                             <span></span>
                             <span></span>
@@ -809,7 +809,7 @@ Besuchen Sie Cashalot </a>
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=12" target="_blank" class="bonus">
                             <strong>400% bis zu €1,500</strong></a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -825,16 +825,16 @@ Besuchen Sie Cashalot </a>
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=12" target="_blank" class="score">
                             8.8 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=12" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=12" target="_blank" class="lnk">
                             Besuchen Sie Mr.Bet </a>
                     </div>
                 </div>
@@ -848,7 +848,7 @@ Besuchen Sie Cashalot </a>
                     </div>
 
                     <div class="offer-logo">
-                        <a href="visi66t.php?id=0" target="_blank">
+                        <a href="visi66t.php?id=13" target="_blank">
                             <img src="zaparoje7/au-dapper/images/logos/sac.png" alt="">
                             <span></span>
                             <span></span>
@@ -859,7 +859,7 @@ Besuchen Sie Cashalot </a>
                     </div>
 
                     <div class="offer-bonus">
-                        <a href="visi66t.php?id=0" target="_blank" class="bonus">
+                        <a href="visi66t.php?id=13" target="_blank" class="bonus">
                             <strong>Bonus €1,000</strong>+100 Freispiele</a>
                         <div class="welcome">Willkommensbonus</div>
                     </div>
@@ -873,22 +873,19 @@ Besuchen Sie Cashalot </a>
                     </div>
 
                     <div class="offer-score">
-                        <a href="visi66t.php?id=0" target="_blank" class="score">
+                        <a href="visi66t.php?id=13" target="_blank" class="score">
                             8.7 </a>
                         <div class="our-score">Punktzahl</div>
                     </div>
 
                     <div class="offer-cta">
-                        <a href="visi66t.php?id=0" target="_blank" class="btn">
+                        <a href="visi66t.php?id=13" target="_blank" class="btn">
                             <span>BONUS ERHALTEN</span>
                         </a>
-                        <a href="visi66t.php?id=0" target="_blank" class="lnk">
+                        <a href="visi66t.php?id=13" target="_blank" class="lnk">
                             Besuchen Sie Spinaway </a>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
         <!--
