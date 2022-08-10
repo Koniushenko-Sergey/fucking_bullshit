@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Cookie Policy | FassBinderGames.com</title>
 	<meta name="description" content="desc">
-	<link rel="icon" href="img/favicon.ico" type="image/ico">
+	<link rel="icon" href="../img/favicon.ico" type="image/ico">
 
   <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="../vendors/fontawesome/css/all.min.css">
