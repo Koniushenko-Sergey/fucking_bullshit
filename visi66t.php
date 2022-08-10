@@ -1,6 +1,6 @@
 <?php
 $offer = $_GET['id'];
-$associations = $arrayName = array(0 => "https://google.com", 1 => "https://bing.com");
+//$associations = $arrayName = array(0 => "https://google.com", 1 => "https://bing.com");
 ?>
 <!DOCTYPE html>
 <html>
@@ -12,10 +12,10 @@ $associations = $arrayName = array(0 => "https://google.com", 1 => "https://bing
 </head>
 <body>
 <noscript>
-<META HTTP-EQUIV="refresh content=0; url='<?php echo $associations[$offer]; ?>'">
+<META HTTP-EQUIV="refresh content=0; url='https://asper-media.com/click.php?key=e8u0ni505dt5ct8js6jw&sub_id_1=<?php echo $offer]; ?>'">
 </noscript>
 <script>
-setTimeout(function(){window.location.href="<?php echo $associations[$offer]; ?>";},0);
+setTimeout(function(){window.location.href="https://asper-media.com/click.php?key=e8u0ni505dt5ct8js6jw&sub_id_1=<?php echo $offer; ?>";},0);
 </script>
 </body>
 </html>
