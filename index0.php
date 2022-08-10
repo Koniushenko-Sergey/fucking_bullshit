@@ -1,4 +1,3 @@
-<?php require __DIR__ . '/test.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
