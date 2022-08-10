@@ -92,10 +92,9 @@
 <h2>About 88 fortunes</h2>
 The 88 fortunes slots is found in most casinos in the US and is also very popular in Macau as well as Australia. It is a classic Aristocrat game and is very similar to the 50 Lions slot machine, as you would expect, I guess, given the title.
 
-As the game title suggests, this one has 50 pay-lines, unlike the similarly named '5 Dragons' which has 243 pay-lines. The big thing here though, is that the top paying lines gives out $10, even on minimum bet, which is huge.
+As the game title suggests, this one has 50 pay-lines, unlike the similarly named '' which has 243 pay-lines. The big thing here though, is that the top paying lines gives out $10, even on minimum bet, which is huge.
 
 Below, you will find our free, instant play version of 88 fortunes - there is no need to download software and no registration required, just enjoy playing.
-
 
 	<br><br>
 	<div class="w3l-index6" id="news">

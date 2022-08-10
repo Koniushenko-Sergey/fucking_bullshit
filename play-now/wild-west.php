@@ -90,11 +90,10 @@
 
 	<br>
 <h2>About Wild West</h2>
-The Wild West slots is found in most casinos in the US and is also very popular in Macau as well as Australia. It is a classic Aristocrat game and is very similar to the 50 Lions slot machine, as you would expect, I guess, given the title.
-
-As the game title suggests, this one has 50 pay-lines, unlike the similarly named '5 Dragons' which has 243 pay-lines. The big thing here though, is that the top paying lines gives out $10, even on minimum bet, which is huge.
-
-Below, you will find our free, instant play version of Wild West - there is no need to download software and no registration required, just enjoy playing.
+The Wild West slots is one thing for sure about Rocket Returns, 
+it is unlike any other slot in the way it plays - a totally new concept when it launched and it would not surprise me to see a lot more of these types of slot machine released in the future.
+As soon as you load up the game (we have a free version to play here) you will see that it is more like a mobile app game, 
+rather than a classic slot you would get in Las Vegas - this game has without doubt been designed for mobile.
 
 
 	<br><br>

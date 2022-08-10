@@ -93,11 +93,12 @@
 
 	<br>
 <h2>About Down Egypt</h2>
-The Down Egypt slots is found in most casinos in the US and is also very popular in Macau as well as Australia. It is a classic Aristocrat game and is very similar to the 50 Lions slot machine, as you would expect, I guess, given the title.
-
-As the game title suggests, this one has 50 pay-lines, unlike the similarly named '5 Dragons' which has 243 pay-lines. The big thing here though, is that the top paying lines gives out $10, even on minimum bet, which is huge.
-
-Below, you will find our free, instant play version of Down Egypt - there is no need to download software and no registration required, just enjoy playing.
+The Down Egypt slots has been around for many years, but you might be forgiven for only having seen it recently. 
+That's because up until a few years ago, it has mostly been seen in Chinese casinos (in Macau), but not so much in the US.
+ New versions of the game now adorn the Vegas casinos and very good they are, too.
+Orient themed slots are a great choice whenever you feel the need for a bit of luck, bundled up with some traditional features. 
+Although it seems that the software developers will never seize launching Asian inspired games, there's always room for one more, especially since some themes are considered timeless. 
+Regardless of how the market changes and evolves, oriental slots will never die out and players will always welcome a new addition.
 
 
 	<br><br>

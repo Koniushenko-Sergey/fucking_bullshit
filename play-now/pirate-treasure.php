@@ -90,11 +90,10 @@
 
 	<br>
 <h2>About Pirate Treasures</h2>
-The Pirate Treasures slots is found in most casinos in the US and is also very popular in Macau as well as Australia. It is a classic Aristocrat game and is very similar to the 50 Lions slot machine, as you would expect, I guess, given the title.
-
-As the game title suggests, this one has 50 pay-lines, unlike the similarly named '5 Dragons' which has 243 pay-lines. The big thing here though, is that the top paying lines gives out $10, even on minimum bet, which is huge.
-
-Below, you will find our free, instant play version of Pirate Treasures - there is no need to download software and no registration required, just enjoy playing.
+The Pirate Treasures slots is a beautiful slots game that follows a Chinese theme. 
+The game is very popular in Chinese casinos and has finally made it here. 
+You can play the game here for free and so can discover all the wonderful features without paying a cent. 
+About Pirate Treasures features those adult baby characters that so often adorn Chinese slots.
 
 
 	<br><br>

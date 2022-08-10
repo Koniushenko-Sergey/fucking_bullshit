@@ -90,11 +90,20 @@
 
 	<br>
 <h2>About Fire Toad</h2>
-The Fire Toad slots is found in most casinos in the US and is also very popular in Macau as well as Australia. It is a classic Aristocrat game and is very similar to the 50 Lions slot machine, as you would expect, I guess, given the title.
+The Fire Toad slots is an IGT video slot that is found in just about every Las Vegas casino on (and off) The Strip. It is played at a 4x4 layout and 50 fixed paylines. 
+As you can easily guess from its title, the slot is themed on candies and comes with simple yet colourful graphics that will please all players having a sweet tooth.
 
-As the game title suggests, this one has 50 pay-lines, unlike the similarly named '5 Dragons' which has 243 pay-lines. The big thing here though, is that the top paying lines gives out $10, even on minimum bet, which is huge.
+The reels framed with red and white striped sugar cane sticks are populated with traditional sevens in red and blue which are top paying icons and various sorts of candies awarding low-value prizes. 
+The symbols can appear in stacks during the base game to help you create more lucrative winning combinations.
 
-Below, you will find our free, instant play version of Fire Toad - there is no need to download software and no registration required, just enjoy playing.
+The game benefits from Wild Multiplier depicted as the gumball with 2x on it. It lands on the reels 2 and 3 only to replace all other symbols and double payouts from the combos in which it is included. 
+If you complete your win with 2 Wilds, your payout will be quadrupled.
+
+Covering the reels entirely with symbols of a kind will result in a Blackout Win that can pay between 5,000 and 25,000 coins. This applies only to the winning combinations with no Wilds included.
+
+The biggest attraction of the Fire Toad slot are three progressive jackpots, which are displayed above the reels. You can hit Snack Size, King Size or Giant Size progressive jackpot. 
+To win them, you have to land two, three or four stacks of symbols with a chocolate background on the reels respectively. 
+So, by landing a stack of symbols with a chocolate bar backdrop on the reels 2, you will hit a Snack Size jackpot. A King Size progressive jackpot will be yours if you place chocolate bars on the reels 2 and 3, while chocolate bars hitting the reels 2, 3 and 4 grant a Giant Size progressive jackpot.
 
 
 	<br><br>
