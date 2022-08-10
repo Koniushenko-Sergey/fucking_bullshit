@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" name="format-detection" content="text/html; charset=utf-8 telephone=no" />
-    <title>TargetTopSlots - Social Casino Games</title>
+    <title>FassBinderGames - Social Casino Games</title>
     <link href="zaparoje7/au-dapper/css/fonts.css" rel="stylesheet" type="text/css">
     <link href="zaparoje7/au-dapper/css/main%EF%B9%96v=1.1.css" rel="stylesheet" type="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -974,7 +974,7 @@ Sie umfassen oft exklusive Reload-Boni, Geburtstagsboni oder spezielle, begrenzt
             <div class="container">
                 <div class="footer-left">
                     <div class="copyright">
-                        &copy;2022 TargetTopSlots.com
+                        &copy;2022 FassBinderGames.com
                     </div>
                 </div>
                 <div class="footer-right">
