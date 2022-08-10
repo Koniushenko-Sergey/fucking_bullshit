@@ -117,8 +117,8 @@ Below, you will find our free, instant play version of Pirate Treasures - there 
           <div class="grids5-info">
             <a href="now-play/fu-dao-le.html"><img src="../img/games/game6.jpg" alt="game-resp" class="oyun-100" /></a>
             <div class="blog-info">
-              <h4><a href="./Pirate Treasures.php">Pirate Treasures</a></h4>
-              <a href="./Pirate Treasures.php" class="play">Play Game</a>
+              <h4><a href="./zelis.php">Zelis</a></h4>
+              <a href="./zelis.php" class="play">Play Game</a>
             </div>
           </div>
         </div>
