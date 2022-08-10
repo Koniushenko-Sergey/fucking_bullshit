@@ -19,19 +19,11 @@
   <link rel="stylesheet" href="../vendors/nice-select/nice-select.css">
   <link rel="stylesheet" href="../css/purecookie.css">
   <link rel="stylesheet" href="../css/style.css">
-  <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TK74V9J');</script>
-<!-- End Google Tag Manager -->
 </head>
 <body class="bg-shape">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK74V9J"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  <?php
+    include 'tag-manager.php';
+  ?>
   <!--================ Header Menu Area start =================-->
   <header class="header_area">
     <div class="main_menu">
@@ -98,7 +90,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="container" style="margin-top:-12%;"><br><br>
 		    <div class="col-md-12 text-center">
             <p style="padding-left:15px;padding-right:15px;"><br>&copy; Our games are intended only for adult audience (18+). Real money gambling or an opportunity to win real money or any type of prizes are never offere.</p>
-			<a href="https://www.begambleaware.org/"><img src="../img/gambleaware.png" alt="GambleAware"></a>
+			<a href="https://www.begambleaware.org/"><img src="img/gambleaware.png" alt="GambleAware"></a>
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left" style="border-top:0px;">
 				<p class="footer-text col-lg-8 col-md-12" style="border-top:0px;">
