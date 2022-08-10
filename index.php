@@ -7,6 +7,10 @@
   <title>FassBinderGames - Social Casino Games</title>
 	<meta name="description" content="desc">
 	<link rel="icon" href="img/favicon.ico" type="image/ico">
+  https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js
+
+
+
 
   <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
@@ -168,7 +172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	</footer>
 
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js"/>
   <script src="js/purecookie.js"></script>
   <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
   <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
