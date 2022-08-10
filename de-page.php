@@ -1,418 +1,423 @@
 <!DOCTYPE html>
 <html class="no-js">
+
 <head>
-<meta http-equiv="Content-Type" name="format-detection" content="text/html; charset=utf-8 telephone=no" />
-<title>TargetTopSlots - Social Casino Games</title>
-<link href="zaparoje7/au-dapper/css/fonts.css" rel="stylesheet" type="text/css">
-<link href="zaparoje7/au-dapper/css/main%EF%B9%96v=1.1.css" rel="stylesheet" type="text/css">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>.offer-rating img {
-    width: 40px;
-    height: auto;
-    object-fit: contain;
-    margin: 0px;
-}
-@media (max-width: 768px) {
-.offer-rating img {
-    width: 25px;
-    height: 15px;
-    object-fit: contain;
-    margin: 0px;
-}
-}
-</style>
+    <meta http-equiv="Content-Type" name="format-detection" content="text/html; charset=utf-8 telephone=no" />
+    <title>TargetTopSlots - Social Casino Games</title>
+    <link href="zaparoje7/au-dapper/css/fonts.css" rel="stylesheet" type="text/css">
+    <link href="zaparoje7/au-dapper/css/main%EF%B9%96v=1.1.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .offer-rating img {
+            width: 40px;
+            height: auto;
+            object-fit: contain;
+            margin: 0px;
+        }
+
+        @media (max-width: 768px) {
+            .offer-rating img {
+                width: 25px;
+                height: 15px;
+                object-fit: contain;
+                margin: 0px;
+            }
+        }
+    </style>
 </head>
+
 <body>
 
 
-<div id="bg"></div>
-<div id="wrap">
-<div id="intro">
-<div class="container">
-<div class="header">Beste Deutsche Online Casino Boni</div>
-<div class="subheader">
-Es gibt eine große Auswahl an verschiedenen Online-Casino-Bonussen und Angeboten. Wir haben einige der beliebtesten Optionen für Deutsche Spieler kurz aufgelistet.
-Worauf warten Sie noch? Fordern Sie Ihren Bonus an!
-</div>
-<!--
+    <div id="bg"></div>
+    <div id="wrap">
+        <div id="intro">
+            <div class="container">
+                <div class="header">Beste Deutsche Online Casino Boni</div>
+                <div class="subheader">
+                    Es gibt eine große Auswahl an verschiedenen Online-Casino-Bonussen und Angeboten. Wir haben einige
+                    der beliebtesten Optionen für Deutsche Spieler kurz aufgelistet.
+                    Worauf warten Sie noch? Fordern Sie Ihren Bonus an!
+                </div>
+                <!--
 <div class="date-updated text-yellow">August 2022</div>
 -->
-<div class="badges">
-<div class="badge badge-secure">100% Sicher</div>
-<div class="badge badge-wallet">Schnelle Abhebungen</div>
-<div class="badge date">
-Letztes Bonus-Update:
-<span class="text-yellow">August 2022</span>
-</div>
-</div>
-</div>
-</div>
-<div id="offers">
-<div class="container">
-<div class="offer-head">
-<div class="offer-logo">Kasino-Website</div>
-<div class="offer-bonus">Willkommensbonus</div>
-<div class="offer-rating">Bewertung</div>
-<div class="offer-score">Punktzahl</div>
-<div class="offer-cta">Bonus erhalten</div>
-</div>
+                <div class="badges">
+                    <div class="badge badge-secure">100% Sicher</div>
+                    <div class="badge badge-wallet">Schnelle Abhebungen</div>
+                    <div class="badge date">
+                        Letztes Bonus-Update:
+                        <span class="text-yellow">August 2022</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="offers">
+            <div class="container">
+                <div class="offer-head">
+                    <div class="offer-logo">Kasino-Website</div>
+                    <div class="offer-bonus">Willkommensbonus</div>
+                    <div class="offer-rating">Bewertung</div>
+                    <div class="offer-score">Punktzahl</div>
+                    <div class="offer-cta">Bonus erhalten</div>
+                </div>
 
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-EXKLUSIV <span></span>
-</div>
-</div>
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            EXKLUSIV <span></span>
+                        </div>
+                    </div>
 
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/rsc.svg" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/rsc.svg" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
 
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="bonus">
-200% bis zu <strong>€500</strong>+100 Freispiele </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="bonus">
+                            200% bis zu <strong>€500</strong>+100 Freispiele </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
 
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
-<img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
 
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="score">
-10.0 </a>
-<div class="our-score">Punktzahl</div>
-</div>
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="score">
+                            10.0 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
 
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="lnk">
-Besuchen Sie Rolling Slots </a>
-</div>
-</div>
-
-
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTE BEWERTUNG
- <span></span>
-</div>
-</div>
-
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/clc.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
-
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="bonus">
-<strong>100% bis zu €500</strong>+200 Freispiele </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
-
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
-<img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
-
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="score">
-9.9 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="lnk">
-Besuchen Sie Casinoly </a>
-</div>
-</div>
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=41.html" target="_blank" class="lnk">
+                            Besuchen Sie Rolling Slots </a>
+                    </div>
+                </div>
 
 
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTE BEWERTUNG
+                            <span></span>
+                        </div>
+                    </div>
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTE BEWERTUNG <span></span>
-</div>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/clc.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
 
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/ldc%EF%B9%96v=1.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="bonus">
+                            <strong>100% bis zu €500</strong>+200 Freispiele </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
 
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="bonus">
-<strong>€4,000 Bonus</strong>+300 Freispiele </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
 
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/maestro.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
-</div>
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="score">
+                            9.9 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
 
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="score">
-9.8 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="lnk">
-Besuchen Sie Lucky Dreams </a>
-</div>
-</div>
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=4.html" target="_blank" class="lnk">
+                            Besuchen Sie Casinoly </a>
+                    </div>
+                </div>
 
 
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTE BEWERTUNG
- <span></span>
-</div>
-</div>
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTE BEWERTUNG <span></span>
+                        </div>
+                    </div>
 
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/spc.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/ldc%EF%B9%96v=1.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
 
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="bonus">
-<strong>Bis zu €1,000</strong>in 3 Boni </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="bonus">
+                            <strong>€4,000 Bonus</strong>+300 Freispiele </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
 
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/maestro.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
+                    </div>
 
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="score">
-9.7 </a>
-<div class="our-score">Punktzahl</div>
-</div>
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="score">
+                            9.8 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
 
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="lnk">
-Besuchen Sie Slots Palace </a>
-</div>
-</div>
-
-
-
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTBEWERTET
- <span></span>
-</div>
-</div>
-
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/vdc.svg" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
-
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="bonus">
-<strong>€1,650</strong>+300 Freispiele </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
-
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-</div>
-
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="score">
-9.6 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="lnk">
-Besuchen Sie VegaDream </a>
-</div>
-</div>
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=17.html" target="_blank" class="lnk">
+                            Besuchen Sie Lucky Dreams </a>
+                    </div>
+                </div>
 
 
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTBEWERTET
- <span></span>
-</div>
-</div>
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTE BEWERTUNG
+                            <span></span>
+                        </div>
+                    </div>
 
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/ulc.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/spc.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
 
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="bonus">
-<strong>100% Bonus bis zu €50</strong></a>
-<div class="welcome">Willkommensbonus</div>
-</div>
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="bonus">
+                            <strong>Bis zu €1,000</strong>in 3 Boni </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
 
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
 
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="score">
-9.5 </a>
-<div class="our-score">Punktzahl</div>
-</div>
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="score">
+                            9.7 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
 
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="lnk">
-Besuchen Sie UberLucky </a>
-</div>
-</div>
-
-
-
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTBEWERTET
- <span></span>
-</div>
-</div>
-
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/icecasino.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
-
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="bonus">
-<strong>€1,500</strong>+270 Freispiele </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
-
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/maestro.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
-</div>
-
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="score">
-9.4 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="lnk">
-Besuchen Sie Ice Casino </a>
-</div>
-</div>
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=42.html" target="_blank" class="lnk">
+                            Besuchen Sie Slots Palace </a>
+                    </div>
+                </div>
 
 
 
-<!--
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTBEWERTET
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/vdc.svg" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="bonus">
+                            <strong>€1,650</strong>+300 Freispiele </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
+
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                    </div>
+
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="score">
+                            9.6 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
+
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=61.html" target="_blank" class="lnk">
+                            Besuchen Sie VegaDream </a>
+                    </div>
+                </div>
+
+
+
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTBEWERTET
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/ulc.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="bonus">
+                            <strong>100% Bonus bis zu €50</strong></a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
+
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
+
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="score">
+                            9.5 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
+
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=62.html" target="_blank" class="lnk">
+                            Besuchen Sie UberLucky </a>
+                    </div>
+                </div>
+
+
+
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTBEWERTET
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/icecasino.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="bonus">
+                            <strong>€1,500</strong>+270 Freispiele </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
+
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/maestro.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
+                    </div>
+
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="score">
+                            9.4 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
+
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=3.html" target="_blank" class="lnk">
+                            Besuchen Sie Ice Casino </a>
+                    </div>
+                </div>
+
+
+
+                <!--
 <div class="offer-body">
 <div class="offer-badge">
 <div class="badge">
@@ -465,7 +470,7 @@ Besuchen Sie Casinobuck </a>
 
 
 
-<!--
+                <!--
 <div class="offer-body">
 <div class="offer-badge">
 <div class="badge">
@@ -513,260 +518,260 @@ Besuchen Sie Qbet </a>
 
 
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTBEWERTET <span></span>
-</div>
-</div>
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTBEWERTET <span></span>
+                        </div>
+                    </div>
 
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/zet.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/zet.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
 
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="bonus">
-100% bis zu <strong>€500</strong>+200 Freispiele </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="bonus">
+                            100% bis zu <strong>€500</strong>+200 Freispiele </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
 
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
 
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="score">
-9.3 </a>
-<div class="our-score">Punktzahl</div>
-</div>
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="score">
+                            9.3 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
 
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="lnk">
-Besuchen Sie Zet Casino </a>
-</div>
-</div>
-
-
-
-
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-BESTBEWERTET
- <span></span>
-</div>
-</div>
-
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/vvc.svg" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
-
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="bonus">
-<strong>Bis zu €1,000</strong>+125 Freispiele </a>
-<div class="welcome">Willkommensbonus</div>
-</div>
-
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/maestro.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
-<img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
-</div>
-
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="score">
-9.2 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="lnk">
-Besuchen Sie Vulkan Vegas </a>
-</div>
-</div>
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=38.html" target="_blank" class="lnk">
+                            Besuchen Sie Zet Casino </a>
+                    </div>
+                </div>
 
 
 
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-POPULÄRE <span></span>
-</div>
-</div>
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            BESTBEWERTET
+                            <span></span>
+                        </div>
+                    </div>
 
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/dachbet.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/vvc.svg" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
 
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="bonus">
-<strong>€1,000 Bonus</strong></a>
-<div class="welcome">Willkommensbonus</div>
-</div>
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="bonus">
+                            <strong>Bis zu €1,000</strong>+125 Freispiele </a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
 
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/maestro.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/sofort.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
+                    </div>
 
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="score">
-9.1 </a>
-<div class="our-score">Punktzahl</div>
-</div>
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="score">
+                            9.2 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
 
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="lnk">
-Besuchen Sie Dachbet Casino </a>
-</div>
-</div>
-
-
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-POPULÄRE <span></span>
-</div>
-</div>
-
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/oms.svg" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
-
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="bonus">
-<strong>100% bis zu €500</strong>+200 Freispiele</a>
-<div class="welcome">Willkommensbonus</div>
-</div>
-
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
-
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="score">
-9.0 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="lnk">
-Besuchen Sie OhMySpins </a>
-</div>
-</div>
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=2.html" target="_blank" class="lnk">
+                            Besuchen Sie Vulkan Vegas </a>
+                    </div>
+                </div>
 
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-POPULÄRE <span></span>
-</div>
-</div>
-
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/rbc.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
-
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="bonus">
-<strong>100% bonus €500</strong>+200 Freispiele</a>
-<div class="welcome">Willkommensbonus</div>
-</div>
-
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
-
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="score">
-8.9 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="lnk">
-Besuchen Sie Rabona </a>
-</div>
-</div>
 
 
-<!--
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            POPULÄRE <span></span>
+                        </div>
+                    </div>
+
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/dachbet.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="bonus">
+                            <strong>€1,000 Bonus</strong></a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
+
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
+
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="score">
+                            9.1 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
+
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=39.html" target="_blank" class="lnk">
+                            Besuchen Sie Dachbet Casino </a>
+                    </div>
+                </div>
+
+
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            POPULÄRE <span></span>
+                        </div>
+                    </div>
+
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/oms.svg" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="bonus">
+                            <strong>100% bis zu €500</strong>+200 Freispiele</a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
+
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
+
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="score">
+                            9.0 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
+
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=43.html" target="_blank" class="lnk">
+                            Besuchen Sie OhMySpins </a>
+                    </div>
+                </div>
+
+
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            POPULÄRE <span></span>
+                        </div>
+                    </div>
+
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/rbc.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="bonus">
+                            <strong>100% bonus €500</strong>+200 Freispiele</a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
+
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
+
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="score">
+                            8.9 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
+
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=44.html" target="_blank" class="lnk">
+                            Besuchen Sie Rabona </a>
+                    </div>
+                </div>
+
+
+                <!--
 <div class="offer-body">
 <div class="offer-badge">
 <div class="badge">
@@ -816,110 +821,110 @@ Besuchen Sie Cashalot </a>
 -->
 
 
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-POPULÄRE <span></span>
-</div>
-</div>
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            POPULÄRE <span></span>
+                        </div>
+                    </div>
 
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/mbc.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/mbc.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
 
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="bonus">
-<strong>400% bis zu €1,500</strong></a>
-<div class="welcome">Willkommensbonus</div>
-</div>
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="bonus">
+                            <strong>400% bis zu €1,500</strong></a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
 
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/neteller.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/giropay.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
 
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="score">
-8.8 </a>
-<div class="our-score">Punktzahl</div>
-</div>
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="score">
+                            8.8 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
 
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="lnk">
-Besuchen Sie Mr.Bet </a>
-</div>
-</div>
-
-
-<div class="offer-body">
-<div class="offer-badge">
-<div class="badge">
-POPULÄRE <span></span>
-</div>
-</div>
-
-<div class="offer-logo">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank">
-<img src="zaparoje7/au-dapper/images/logos/sac.png" alt="">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-</a>
-</div>
-
-<div class="offer-bonus">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="bonus">
-<strong>Bonus €1,000</strong>+100 Freispiele</a>
-<div class="welcome">Willkommensbonus</div>
-</div>
-
-<div class="offer-rating">
-<img src="zaparoje7/au-dapper/images/payment/visa.svg" />
-<img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
-<img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
-<img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
-</div>
-
-<div class="offer-score">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="score">
-8.7 </a>
-<div class="our-score">Punktzahl</div>
-</div>
-
-<div class="offer-cta">
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="btn">
-<span>BONUS ERHALTEN</span>
-</a>
-<a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="lnk">
-Besuchen Sie Spinaway </a>
-</div>
-</div>
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=25.html" target="_blank" class="lnk">
+                            Besuchen Sie Mr.Bet </a>
+                    </div>
+                </div>
 
 
+                <div class="offer-body">
+                    <div class="offer-badge">
+                        <div class="badge">
+                            POPULÄRE <span></span>
+                        </div>
+                    </div>
 
-</div>
-</div>
+                    <div class="offer-logo">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank">
+                            <img src="zaparoje7/au-dapper/images/logos/sac.png" alt="">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+
+                    <div class="offer-bonus">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="bonus">
+                            <strong>Bonus €1,000</strong>+100 Freispiele</a>
+                        <div class="welcome">Willkommensbonus</div>
+                    </div>
+
+                    <div class="offer-rating">
+                        <img src="zaparoje7/au-dapper/images/payment/visa.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/mastercard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/skrill.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/paysafecard.svg" />
+                        <img src="zaparoje7/au-dapper/images/payment/bitcoin.svg" />
+                    </div>
+
+                    <div class="offer-score">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="score">
+                            8.7 </a>
+                        <div class="our-score">Punktzahl</div>
+                    </div>
+
+                    <div class="offer-cta">
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="btn">
+                            <span>BONUS ERHALTEN</span>
+                        </a>
+                        <a href="visi66t.php%EF%B9%96clickid=144664&amp;caid=46.html" target="_blank" class="lnk">
+                            Besuchen Sie Spinaway </a>
+                    </div>
+                </div>
 
 
-<!--
+
+            </div>
+        </div>
+
+
+        <!--
 <div id="about">
 <div class="container">
 <h1>Arten von Online-Kasino-Boni</h1>
@@ -965,22 +970,23 @@ Sie umfassen oft exklusive Reload-Boni, Geburtstagsboni oder spezielle, begrenzt
 
 
 
-<div id="footer">
-<div class="container">
-<div class="footer-left">
-<div class="copyright">
-&copy;2022 TargetTopSlots.com 
-</div>
-</div>
-<div class="footer-right">
-<div class="plus18">
-<img src="zaparoje7/au-dapper/images/18plus.png" alt="">
-<img src="zaparoje7/au-dapper/images/gamcare.png" alt="">
-</div>
-</div>
-</div>
-</div>
-</div>
+        <div id="footer">
+            <div class="container">
+                <div class="footer-left">
+                    <div class="copyright">
+                        &copy;2022 TargetTopSlots.com
+                    </div>
+                </div>
+                <div class="footer-right">
+                    <div class="plus18">
+                        <img src="zaparoje7/au-dapper/images/18plus.png" alt="">
+                        <img src="zaparoje7/au-dapper/images/gamcare.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 </body>
+
 </html>
