@@ -90,11 +90,10 @@
 
 	<br>
 <h2>About Pirate Treasures</h2>
-The Pirate Treasures slots is a beautiful slots game that follows a Chinese theme. 
-The game is very popular in Chinese casinos and has finally made it here. 
-You can play the game here for free and so can discover all the wonderful features without paying a cent. 
-About Pirate Treasures features those adult baby characters that so often adorn Chinese slots.
-
+Pirate Treasures slots are colorful Chinese-themed slots.
+A game that is popular in Chinese casinos and has finally reached us.
+You can play "Pirate Treasures" here for free and discover all the hidden best features without paying a cent for it.
+This game features adult children's characters that can be seen on Chinese slot machines.
 
 	<br><br>
 	<div class="w3l-index6" id="news">

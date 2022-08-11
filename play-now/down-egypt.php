@@ -93,13 +93,13 @@
 
 	<br>
 <h2>About Down Egypt</h2>
-The Down Egypt slots has been around for many years, but you might be forgiven for only having seen it recently. 
-That's because up until a few years ago, it has mostly been seen in Chinese casinos (in Macau), but not so much in the US.
- New versions of the game now adorn the Vegas casinos and very good they are, too.
-Orient themed slots are a great choice whenever you feel the need for a bit of luck, bundled up with some traditional features. 
-Although it seems that the software developers will never seize launching Asian inspired games, there's always room for one more, especially since some themes are considered timeless. 
-Regardless of how the market changes and evolves, oriental slots will never die out and players will always welcome a new addition.
-
+Down Egypt slots have been around for years, but you'll be forgiven for not seeing them until recently.
+This is because, until a few years ago, it was mostly seen in Chinese casinos (in Macau), but not as often in the US.
+   New versions of the game are now decorating the Vegas casinos and they are very good too.
+Down Egypt is the best collection of casino slots, including the best slot machines to spend your time!
+Oriental themed slots are a great choice when you need a bit of luck, combined with some traditional features.
+While it seems like software developers will never stop running Asian games, there's always room for one more, especially since some themes are considered timeless.
+No matter how the market changes and develops, Eastern slots will never die out, and players will always be happy with new additions.
 
 	<br><br>
 	<div class="w3l-index6" id="news">

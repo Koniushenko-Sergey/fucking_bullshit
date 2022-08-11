@@ -90,10 +90,10 @@
 
 	<br>
 <h2>About Wild West</h2>
-The Wild West slots is one thing for sure about Rocket Returns, 
-it is unlike any other slot in the way it plays - a totally new concept when it launched and it would not surprise me to see a lot more of these types of slot machine released in the future.
-As soon as you load up the game (we have a free version to play here) you will see that it is more like a mobile app game, 
-rather than a classic slot you would get in Las Vegas - this game has without doubt been designed for mobile.
+Wild West slots are what will tell all about Rocket Returns,
+it's unlike any other slot in the way it plays - a completely new concept when it was launched and I wouldn't be surprised if many more slots like this are released in the future.
+Once you download "Wild West" you will see that the sf game is more like a mobile app game.
+not the classic slot you would get in Las Vegas. Wild West was without a doubt designed for mobile devices.
 
 
 	<br><br>

@@ -90,20 +90,23 @@
 
 	<br>
 <h2>About Fire Toad</h2>
-The Fire Toad slots is an IGT video slot that is found in just about every Las Vegas casino on (and off) The Strip. It is played at a 4x4 layout and 50 fixed paylines. 
-As you can easily guess from its title, the slot is themed on candies and comes with simple yet colourful graphics that will please all players having a sweet tooth.
+Fire Toad Slots is an IGT video slot that can be found in almost every Las Vegas casino on the Strip.
+It is played in a 4x4 layout and 50 fixed paylines.
+As you can easily guess from the name, the theme of the slot is dedicated to sweets, and simple but colorful graphics will delight all lovers of sweets.
 
-The reels framed with red and white striped sugar cane sticks are populated with traditional sevens in red and blue which are top paying icons and various sorts of candies awarding low-value prizes. 
-The symbols can appear in stacks during the base game to help you create more lucrative winning combinations.
+Framed with red and white striped sugar cane sticks, the reels are filled with the traditional red and blue sevens, which are the highest paying icons, and various types of candies that bring small prizes.
+Symbols can appear in stacks during the base game to help you create more profitable winning combos.
 
-The game benefits from Wild Multiplier depicted as the gumball with 2x on it. It lands on the reels 2 and 3 only to replace all other symbols and double payouts from the combos in which it is included. 
-If you complete your win with 2 Wilds, your payout will be quadrupled.
+The game benefits from a Wild multiplier depicted as a bubble gum with 2x on it. Landing on reels 2 and 3 only to replace all other symbols and double the payouts for combinations.
+If you complete the game with 2 Wilds, your payout will be quadrupled.
 
-Covering the reels entirely with symbols of a kind will result in a Blackout Win that can pay between 5,000 and 25,000 coins. This applies only to the winning combinations with no Wilds included.
+Full coverage of the reels with these types of symbols will result in a Blackout Win, which can pay between 5,000 and 25,000 coins. This only applies to winning combinations without wilds included.
 
-The biggest attraction of the Fire Toad slot are three progressive jackpots, which are displayed above the reels. You can hit Snack Size, King Size or Giant Size progressive jackpot. 
-To win them, you have to land two, three or four stacks of symbols with a chocolate background on the reels respectively. 
-So, by landing a stack of symbols with a chocolate bar backdrop on the reels 2, you will hit a Snack Size jackpot. A King Size progressive jackpot will be yours if you place chocolate bars on the reels 2 and 3, while chocolate bars hitting the reels 2, 3 and 4 grant a Giant Size progressive jackpot.
+Fire Toad provides three progressive jackpots that are displayed above the reels. You can win Snack Size, King Size or Giant Size.
+To win them, you need to land two, three or four stacks of chocolate-backed symbols on the reels.
+
+Remember, by placing a stack of symbols in front of a chocolate bar on reels 2, you will win the Snack Size jackpot. 
+The progressive jackpot is won if you land chocolate bars on reels 2 and 3, and chocolate bars landing on reels 2, 3 and 4 will bring you a big progressive jackpot.
 
 
 	<br><br>
